@@ -1,6 +1,6 @@
-from docxtpl import DocxTemplate
 import openpyxl
 import re
+from docxtpl import DocxTemplate
 from openpyxl import load_workbook
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.Qt import QVBoxLayout
